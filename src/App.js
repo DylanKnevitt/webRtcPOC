@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import RTCMesh from 'react-rtc-real'
 require('react-rtc-real/assets/index.css');
